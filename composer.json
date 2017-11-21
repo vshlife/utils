@@ -1,0 +1,11 @@
+{
+    "name": "vshswy/utils",
+    "description": "utils",
+    "authors": [
+        {
+            "name": "史文泳",
+            "email": "309432314@qq.com"
+        }
+    ],
+    "require": {}
+}
