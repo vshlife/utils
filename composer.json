@@ -3,7 +3,7 @@
     "description": "utils",
     "authors": [
         {
-            "name": "史文泳",
+            "name": "vshswy",
             "email": "309432314@qq.com"
         }
     ],
@@ -11,8 +11,8 @@
     "replace": {},
     "require-dev": {},
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-4": {
+            "Vshswy\\utils\\": "src"
+        }
     }
 }
