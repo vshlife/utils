@@ -7,5 +7,12 @@
             "email": "309432314@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "replace": {},
+    "require-dev": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
 }
